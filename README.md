@@ -3,7 +3,7 @@
 ## Instructor: Gil-Jin Jang
 
 ## Lab 01(Complete)
-1. - Create a 'Wav' File
+1. Create a 'Wav' File
   `/lab01/digitrec/segmented-do.tar`
   
 2. Test the Scrpit for My Voice `hmmsr_kdigits_v2.ipynb`
