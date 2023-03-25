@@ -8,4 +8,4 @@
   
 2. Test the Scrpit for My Voice `hmmsr_kdigits_v2.ipynb`
 
-## Lab 02(Countinue...)
+## Lab 02(Continue...)
