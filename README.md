@@ -10,7 +10,7 @@
 
 ## Lab 02(Complete 23/03/26)
 
-- Code: `/lab02/do_lab02_spectrum.ipynb'
+- Code: `/lab02/do_lab02_spectrum.ipynb`
 
 1. Upsampling `/lab02/kdigits0-3_{32k, 44k, 48k}.wav`
 
