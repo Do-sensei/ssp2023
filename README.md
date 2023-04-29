@@ -24,4 +24,4 @@
 
 - Code: `/lab04/lab04_ns_epd_do.ipynb`
 
-- Wave Output: `./lab04/output/`
+- Wave Output: `/lab04/output/`
