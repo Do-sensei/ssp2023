@@ -16,7 +16,7 @@
 
 2. Decimation `/lab02/kdigits0-3_{32k, 44k, 48k}_{8k, 11k}.wav`
 
-## Lab 04(Complete 23/04/29)
+## Lab 03(Complete 23/04/29)
 
 - Code: `/lab03/do-lab03-filtering.ipynb`
 
