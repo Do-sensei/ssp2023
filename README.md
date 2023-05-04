@@ -10,7 +10,7 @@
 
 ## Lab 02 (Complete 23/03/26)
 
-- Code: `/lab02/do_lab02_spectrum.ipynb`
+- Code: [`/lab02/do_lab02_spectrum.ipynb`](/lab02/do_lab02_spectrum.ipynb)
 
 1. Upsampling `/lab02/kdigits0-3_{32k, 44k, 48k}.wav`
 
@@ -18,16 +18,16 @@
 
 ## Lab 03 (Complete 23/04/29)
 
-- Code: `/lab03/do-lab03-filtering.ipynb`
+- Code: [`/lab03/do-lab03-filtering.ipynb`](/lab03/do-lab03-filtering.ipynb)
 
 ## Lab 04 (Complete 23/04/29)
 
-- Code: `/lab04/lab04_ns_epd_do.ipynb`
+- Code: [`/lab04/lab04_ns_epd_do.ipynb`](/lab04/lab04_ns_epd_do.ipynb)
 
 - Wave Output: `/lab04/output/`
 
 ## proj 1 (23/05/04, ***! Will continue to update... !***)
 
-- Code: `/proj1/proj1_nidr_do.ipynb`
+- Code: [`/proj1/proj1_nidr_do.ipynb`](/proj1/proj1_nidr_do.ipynb)
 
-- Report: `/proj1/README.md`
+- Report: [`/proj1/README.md`](/proj1/README.md)
