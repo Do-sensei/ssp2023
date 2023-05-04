@@ -1,11 +1,12 @@
 # DEEE725 Speech Signal Processing Lab
+- ***! Will continue to update... !***
 
 ## 2023 Spring, Kyungpook National University
 
 - Department: **Artificial Intelligence**
 - ID number: **2021420905**
 - Date: `2023-05-04`
-    - ***! Will continue to update... !***
+
 # Project 1 Isolated digit recognition in noisy environments
 
 - Original [code](https://github.com/gjang7/ssp2023/blob/main/proj1/proj1_nidr.ipynb) is by https://github.com/gjang7/ssp2023/blob/main/proj1/proj1_nidr.ipynb
